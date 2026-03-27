@@ -1,0 +1,31 @@
+# KWJaESBbgm8
+
+Source: https://www.youtube.com/watch?v=KWJaESBbgm8
+
+---
+
+If you're a young person, yeah, and you're scared of AI and people, you just hear you hear rumblings that all the jobs are going to go away, uh, what do you say to young people about the AI revolution that's upon us, &gt;&gt; that the only class you should pay attention to is history or do it on your free time because when the tractor was invented and the automobile and the typewriter and the computer, they all said the same thing, &gt;&gt; right? &gt;&gt; And by the way, for anybody who's really understands, AI is big. Like, it is bigger than the things I just mentioned. But I will say this again. When the tractor was invented, &gt;&gt; 80% of the world worked on a farm, &gt;&gt; right? &gt;&gt; If you're a young kid and worried about this, you're a [&nbsp;__&nbsp;] idiot. This is your biggest opportunity. I understand if it's an OG like you and me, you're like, "A [&nbsp;__&nbsp;] we got to learn something new.
+
+We're old dogs. We just want to eat the same [&nbsp;__&nbsp;] bone." If you're a 22-year-old, it's the best [&nbsp;__&nbsp;] that ever happened to you. &gt;&gt; Why? &gt;&gt; Because it's a title wave and you're still young and spry where you can grab the board and ride this wave. Mhm. &gt;&gt; When you're 72 and this title wave comes and you're like, "Motherfucker." You're kind of like, "Fuck it. I'm just going to put my head in the sand and let this thing kill me." &gt;&gt; When you're 22, what the [&nbsp;__&nbsp;] are you crying about? &gt;&gt; Yeah.
+
+&gt;&gt; Some jobs will go away. &gt;&gt; Yeah. &gt;&gt; Many jobs will go away. You know what else is going to happen? &gt;&gt; Millionaire kids. &gt;&gt; Mhm. &gt;&gt; Do you know how many kids are about to become millionaires because they understand AI? Mhm.
+
+&gt;&gt; So, either [&nbsp;__&nbsp;] and cry about it cuz you're fear-based or realize this is literally the biggest financial we're talking about it financially right now. &gt;&gt; Yeah. &gt;&gt; Cuz we're talking about jobs. &gt;&gt; Yeah. &gt;&gt; This is the biggest financial opportunity for somebody under the age of 25 ever. &gt;&gt; Ever. Bigger than the internet in 94. &gt;&gt; And where do they &gt;&gt; It depends how you deploy it.
+
+So, for example, let me explain what I mean by that. If you're a 17-year-old smart kid, you can literally call every local business and be like, "Hey, I'll build your new website. Your website's old." They're like, "How much?" You're like, "500 bucks." They're like, "Wait, my last quote was 4,000." You're like, "Yeah, 500." You know why? You can build it in a [&nbsp;__&nbsp;] minute with AI, &gt;&gt; right? &gt;&gt; Yeah. &gt;&gt; I mean, I I can literally sit here for 24 straight hours on serious and like like tell people 9,000 examples of where AI can do that for you, &gt;&gt; right? &gt;&gt; Yeah. It's it's a profound.
+
+&gt;&gt; And they're not going to do it themselves and just go after. &gt;&gt; And by the way, everyone's about to ask this, so let me say it. The way you learn about AI is with AI. &gt;&gt; Mhm. &gt;&gt; Go to chat GPT, &gt;&gt; right? &gt;&gt; Go to Perplexity. Go to Gemini and literally type in I'm a Ready? Let's go through it.
+
+And this is profound. Like this is how you watch this. I'm going to do it in real time. I'm going to chat GPD. Here we go. &gt;&gt; Hey Chatty. I call Chad GPD. Chatty.
+
+Hey Chatty. Um I'm a 19-year-old dude. I'm fairly ambitious. I hear AI is going to take all these jobs. But then I heard Gary Vee on this podcast say that actually stop being a [&nbsp;__&nbsp;] and be scared. Go on the offense and use AI. I'm a good hard worker if I'm motivated and I'm motivated by money. I need some cash cuz all these girls out here, you know, the girls out here, they need the cash.
+
+I need some cash. What five businesses can I start if I'm willing to really work hard using AI to disrupt the incumbents that don't use AI? That is kind of easy for a 19-year-old that kind of knows tech, but I'm not a developer or anything chatty. I'm just a normal 19-year-old that kind of understands tech. What's like a good thing? I live in Topeka, Kansas in a 100 mile radius. Like what things should I be looking at where I could have a huge advantage? So, first of all, why what I just did was important.
+
+A lot of people are using chat GBT and AI like they use Google search, &gt;&gt; right? &gt;&gt; Notice how I did a very different thing there. First, I use my voice because I'm much stronger communicator on voice than I am typing. &gt;&gt; Second, I'm very uh I'm very very specific because I want people Now, here's my answer. Got it. Chatty here. I like your energy. You don't need to code or AI.
+
+Here we go. Local marketing agency 2.0. My world. You could take money from Gary Vee and Vayner Media. The path every roofer, landscaper, de dentist dentist, HBAC company, lawyer in Topeka is still posting blurry Facebook photos and paying outdated agencies. Your advantage, use AI to pump out clean branding, Tik Tok ads, and even customer service chat bots. You can use Canva AI, ChatGBT, or Opus Clip. You can look at a big-time creative agency and almost no overhead and be a competitor to them.
+
+How to start? Walk into 10 local businesses and say, "Hey, I run a Tik Tok, Instagram, Google ad business for $500 a month and I can get you leads in 30 days or you don't have to pay me." I mean, this gets and then you can follow up. The next one was real estate content machine. The next one is AI powered resume and college essay business. High school and college kids around Topeka need jobs and scholarship. Parents will pay for professional polish. Use ChatchBT or others to help write resumeumés, essays, cover letters, and package it with a Canva design template and charge $50 to $150 each. This will take you 3 to seven minutes and probably $4 of effort.
+
+&gt;&gt; That's pretty great. I think I'm going to do that. The resume part, &gt;&gt; this is this is really important [&nbsp;__&nbsp;] You see, like we are now in an era where you don't need to follow my content to come up with the ideas. Yeah, &gt;&gt; just ask AI to help you get good at AI &gt;&gt; and keep asking it &gt;&gt; and keep asking it and keep talking. &gt;&gt; Keep saying yes.

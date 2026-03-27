@@ -1,0 +1,27 @@
+# LBpzd0pvzCA
+
+Source: https://www.youtube.com/watch?v=LBpzd0pvzCA
+
+---
+
+Nobody's going to be able to help you. You're going to be the only person that's able to help yourself. And if you think the people that are using fear and negativity to get your attention and you're saying they're right, they're just selling you darkness and you're buying it. And for some reason you think that if you take that darkness and then you deploy hating somebody else, a system, a government, a president, hating a gender, a race, a person that looks different than you, that you're going to take your unhappiness, you're going to repackage it cuz somebody got into your head and you're going to use that as hate to tear down somebody else because you think that's going to be good for you. You think that's going to be good for you? You're [&nbsp;__&nbsp;] losing out here, partner. You're [&nbsp;__&nbsp;] losing out here, my friend. If you're [&nbsp;__&nbsp;] spending your time hating on others, canceling people on the left, hating on people on the right, country to country, religion to religion, if you're watching this in the Middle East and Eastern Europe and America, trying to divide people, even within your own family, you're mad at your brother because he's happy and successful.
+
+That's on you. He's not trying to make you feel mad. He's just happy. He can't help but project it. He's happy. And so what? You're mad at him. You want to tear him down.
+
+You want to talk [&nbsp;__&nbsp;] to your other siblings or your parents about him because he's happy. This is an inside game. It's you versus you. It's you with you. It's only you and you. And too many of you right now are succumbing to consuming darkness. And that's your [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] So take on the accountability. Take on the accountability and say it's my job to start being more optimistic and happier.
+
+and I'm going to seek out humans and content that does that. This is the first day that I'm going to go on the mental scale. Just like when you have to lose 30 pounds, you go on the scale and be like, "Okay, I'm a buck 90. I got to get to 160." Let this be the video. Let this be the second in your life that you get on the mental scale and say, "I'm too cynical. I'm too scared. I'm frightened. I'm insecure." Which is why all this other bad shit's happening.
+
+And I'm ready to do something about it. And that first thing to do is to cut out the negativity in your life. Cut the news the [&nbsp;__&nbsp;] out. Cut all the people in your [&nbsp;__&nbsp;] social that are [&nbsp;__&nbsp;] negative. Cut the people in your real life. Cut them down. You don't have to cancel and completely cut out your mom. You just might be able to talk to her once a month for 5 minutes instead of three times a day for 15 and just have her talk negative nonsense to you.
+
+You don't That's the biggest issue that people people hear me. They're like, "I can't cut my brother out." I don't want you to I want you to cut down your brother. Limit your brother. If your brother is [&nbsp;__&nbsp;] bringing negativity to you an hour at a time every single day, that is seeping into your soul. And look around your homies. Negative people love to hang out with negative people. Negative people love to hang out with negative people. You just sit in a [&nbsp;__&nbsp;] circle on your text thread or in your [&nbsp;__&nbsp;] at your [&nbsp;__&nbsp;] coffee shop in the morning or after work at the bar or on the softball team or in the office.
+
+You just love hanging out with each other and saying why everybody else is [&nbsp;__&nbsp;] up. Joe Biden [&nbsp;__&nbsp;] up. Donald Trump [&nbsp;__&nbsp;] up. My mom [&nbsp;__&nbsp;] up. Our boss [&nbsp;__&nbsp;] up. The CEO [&nbsp;__&nbsp;] up. Billionaires [&nbsp;__&nbsp;] up. Gen Z [&nbsp;__&nbsp;] up.
+
+The millennials [&nbsp;__&nbsp;] When did you [&nbsp;__&nbsp;] up? When did you [&nbsp;__&nbsp;] up? You know what keeps me happy as [&nbsp;__&nbsp;] I talk to myself more about what I [&nbsp;__&nbsp;] up about than what I've accomplished. And let me make it very clear to you. I'm incredibly proud of how big one list is versus the other. And yet all my focus goes onto the accountability of what I suck at. And that doesn't bring me down. That makes me happy because I take on the accountability.
+
+I'm like, what can I do about it? How do I make it better? What can I do about it? Can that be apologizing to somebody? Or can that be about changing my behavior? Often both. Negative people think they're tricking somebody with their negative words. I come across negative people every day of my life and I listen to all of their nonsense and they really think they're tricking me into thinking it was someone else.
+
+It's [&nbsp;__&nbsp;] you. If you can afford it, therapy. If you can't afford it, use the free therapy that's on YouTube and podcast every [&nbsp;__&nbsp;] day. [&nbsp;__&nbsp;] do something about it because one day you're gonna wake up and it's gonna all be over and you're gonna be dead forever and you're gonna regret it. It's time. Change your life cuz nobody else is going to change it for you. There'll be people that come along that want to be the assist. I'd love to be the assist.
+
+I'd love to [&nbsp;__&nbsp;] be the assist. Boy, would I love to be the assist. I'd love to bounce it right down the lane and have you dunk it, but I can't be the one that scores the points. That needs to be you. See you.
