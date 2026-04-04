@@ -23,7 +23,7 @@ Gary's personal brand in 2026 posts 12-15 pieces per day across all platforms be
 
 Ask:
 1. **What's the pillar piece?** (Format, duration, platform it's hosted on)
-2. **How many micro pieces are ready?** (Get the list from the micro-content-extractor output)
+2. **How many micro pieces are ready?** (Get the list from the [[micro-content-extractor|micro-content-extractor]] output)
 3. **Which platforms are you posting to?** (List active platforms with handles)
 4. **What's your team capacity?** (Solo creator, small team, full team — this determines how many platforms are realistic)
 5. **What timezone is your audience in?** (Primary timezone for timing)

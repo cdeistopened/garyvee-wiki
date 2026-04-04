@@ -101,7 +101,7 @@ Deliver a **Pillar Content Audit** in this format:
 
 ## Composability
 
-This skill feeds directly into `micro-content-extractor`. Once the user has their ranked pillar list, they take the #1 piece into micro-content-extractor for the full extraction plan.
+This skill feeds directly into `micro-content-extractor`. Once the user has their ranked pillar list, they take the #1 piece into [[micro-content-extractor|micro-content-extractor]] for the full extraction plan.
 
 ## Source Transcripts
 - `bRSw84qTvZs` - GaryVee Content Model walkthrough

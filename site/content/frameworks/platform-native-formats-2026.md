@@ -236,6 +236,6 @@ Every platform penalizes links to other platforms. Always:
 
 ## Output
 
-Use this guide when adapting any piece of content for multi-platform distribution. The platform-native-adapter skill walks you through the process for a specific piece of content.
+Use this guide when adapting any piece of content for multi-platform distribution. The [[platform-native-adapter|platform-native-adapter]] skill walks you through the process for a specific piece of content.
 
 > Source: Platform assessments from Gary Vaynerchuk across `yhZDv3dwFyM`, `VMumHwVEfFs`, `_TdzXnYJuSY`, `Sio8lkFXiMY`, `yHjHVG6mBg0`, and 15+ additional transcripts.
