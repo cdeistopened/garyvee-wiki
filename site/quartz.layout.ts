@@ -1,21 +1,19 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "Gary Vaynerchuk": "https://www.mfmpod.com",
       "Creative Intelligence Agency": "https://creativeintel.agency",
-      "Skill Stack": "https://skillstack.md",
-      "GitHub": "https://github.com/cdeistopened",
+      GitHub: "https://github.com/cdeistopened/garyvee-wiki",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
@@ -40,29 +38,36 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       filterFn: (node) => {
         return node.slugSegment !== "tags"
       },
       sortFn: (a, b) => {
+        const order = ["people", "articles", "skills", "episodes"]
+        const aIdx = order.indexOf(a.slugSegment ?? "")
+        const bIdx = order.indexOf(b.slugSegment ?? "")
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
         return a.displayName.localeCompare(b.displayName)
       },
     }),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
   ],
 }
 
-// components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -76,11 +81,17 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
       filterFn: (node) => {
         return node.slugSegment !== "tags"
       },
       sortFn: (a, b) => {
+        const order = ["people", "articles", "skills", "episodes"]
+        const aIdx = order.indexOf(a.slugSegment ?? "")
+        const bIdx = order.indexOf(b.slugSegment ?? "")
+        if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        if (aIdx !== -1) return -1
+        if (bIdx !== -1) return 1
         return a.displayName.localeCompare(b.displayName)
       },
     }),
